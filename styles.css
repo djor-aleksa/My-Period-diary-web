@@ -3,6 +3,7 @@ html, body {
   color:white;
     height: 100vh;
     height: calc(var(--vh, 1vh) * 100);
+  
   }
 
 .modal {
@@ -18,10 +19,8 @@ html, body {
 }
 
 p{
-  text-align: justify;
   padding-left: 6%;
   padding-right: 6%;
   font-family: 'Raleway', sans-serif;
-  
 }
 
