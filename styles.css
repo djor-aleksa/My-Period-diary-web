@@ -17,11 +17,19 @@ html, body {
   padding: 7% 0 5% 0;
   font-family: 'Raleway', sans-serif;
 }
+h2{
+  padding-left:6%;
+  font-family: 'Raleway', sans-serif;
+}
 
 p{
   padding-left: 6%;
   padding-right: 6%;
   padding-top: 3%;
+  font-family: 'Raleway', sans-serif;
+}
+ul{
+  padding-left:9%;
   font-family: 'Raleway', sans-serif;
 }
 
